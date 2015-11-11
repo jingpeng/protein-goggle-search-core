@@ -1,0 +1,7 @@
+E:\Workhome\VSspace\proteinG\proteinG\bin\Debug\proteinG.exe.config
+E:\Workhome\VSspace\proteinG\proteinG\bin\Debug\proteinG.exe
+E:\Workhome\VSspace\proteinG\proteinG\bin\Debug\proteinG.pdb
+E:\Workhome\VSspace\proteinG\proteinG\bin\Debug\MySql.Data.dll
+E:\Workhome\VSspace\proteinG\proteinG\obj\Debug\proteinG.exe
+E:\Workhome\VSspace\proteinG\proteinG\obj\Debug\proteinG.pdb
+E:\Workhome\VSspace\proteinG\proteinG\obj\Debug\proteinG.csprojResolveAssemblyReference.cache
